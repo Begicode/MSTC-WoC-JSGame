@@ -1,0 +1,26 @@
+﻿body{
+	background-color:brown;
+	background-image:url(pic1.png);
+	width=200%; 
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+	font-family:Arabia;
+	font-size:28px;
+    }
+p{  
+	font-size:38px;
+	font-family:Arabia;
+        color:black;
+	text-align:center;
+ }
+h1{	color:black;
+	font-family:Arabia;
+	text-align:center;
+	}
+a{
+	font-size:48px;
+	font-family:Arabia;
+        color:black;
+	text-align:center;
+}
