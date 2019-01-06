@@ -1,1 +1,1 @@
-# MSTC-WoC-JSGame
+This is a quiz game based on basics of Jvascript , CSS, HTML. It is set in an ancient back-drop with an eagle guarding the tresure which is in the vault which has been closed for 5000 years and the player who answers all 5 questions correctly wins. If the player answers even one question wrong then the game ends for him and his score is displayed along with an option to restart. # MSTC-WoC-JSGame
